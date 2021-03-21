@@ -11,14 +11,3 @@ describe('Auth', () => {
     });
 });
 
-// describe('Auth', () => {
-//     it('user logs in with invalid data', () => {
-//         LoginPage.open();
-//         LoginPage.setLogin('karanchyk123@gmailcom');
-//         LoginPage.setPassword('085212');
-//         LoginPage.clickSubmitButton();
-//         ProfilePage.isOpen();
-//     });
-
-
-
